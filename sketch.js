@@ -3,14 +3,14 @@
 
 
 function setup() {
-  createCanvas(1000, 1000);
+  createCanvas(400, 400);
 }
 
 function draw() {
   background(50);
   stroke(255);
   noFill();
-  drawCircle(500, 500, 600);
+  drawCircle(200, 200, 300);
   noLoop();
 }
 
