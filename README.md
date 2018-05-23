@@ -1,8 +1,8 @@
 # Recursion
 [HTML Example](https://hgleocho.github.io/Recursion)
-
-
-
+|
+|
+|
 Interactive Fractal Branches by Diego de la Fuente Curaqueo - 
 [Demo](https://www.openprocessing.org/sketch/457282)
 | [Source](github.com/diegodelaefe/Fractaloid)
