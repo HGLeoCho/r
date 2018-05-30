@@ -33,6 +33,4 @@ Interactive Fractal Branches by Diego de la Fuente Curaqueo -
 * Recursion Pyramid - Trevor Clarke: 
 [Demo](https://trevorc.ca/recursionPyramid/) 
 | [Source](https://github.com/Tr3v0rC/recursionPyramid)
-#� �R�e�c�u�r�s�i�o�n�
-�
-�
+
