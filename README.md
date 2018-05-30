@@ -20,8 +20,8 @@ Interactive Fractal Branches by Diego de la Fuente Curaqueo -
 
 * Justin Riley Recursive Remix - 
 [Demo](https://recursion.glitch.me/) 
-
 | [Source](https://glitch.com/edit/#!/recursion)
+
 * Recursive Squares - 
 [Demo](https://codepen.io/DonKarlssonSan/full/PJQvKG) 
 | [Source](https://codepen.io/DonKarlssonSan/pen/PJQvKG)
@@ -32,7 +32,6 @@ Interactive Fractal Branches by Diego de la Fuente Curaqueo -
 
 * Recursion Pyramid - Trevor Clarke: 
 [Demo](https://trevorc.ca/recursionPyramid/) 
-
 | [Source](https://github.com/Tr3v0rC/recursionPyramid)
 #� �R�e�c�u�r�s�i�o�n�
 �
